@@ -1,0 +1,18 @@
+{
+  "match": "Dolphins vs Penrith Panthers",
+  "competition": "NRL Telstra Premiership, Round 7",
+  "status": "Scheduled",
+  "homeTeam": "Dolphins",
+  "awayTeam": "Penrith Panthers",
+  "homeScore": null,
+  "awayScore": null,
+  "kickoffLocal": "2026-04-17T19:30:00+09:30",
+  "kickoffAest": "2026-04-17T20:00:00+10:00",
+  "venue": "TIO Stadium, Darwin",
+  "lastUpdated": "2026-04-14T00:00:00-07:00",
+  "notes": [
+    "The match is scheduled for Friday, April 17, 2026 at 7:30 PM ACST in Darwin.",
+    "This is rugby league / NRL, not rugby union.",
+    "This update area is based on original notes and manual data updates."
+  ]
+}
